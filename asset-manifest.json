@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af3197ad.css",
+    "main.js": "/static/js/main.227ba8ff.js",
+    "static/media/villa1.gif": "/static/media/villa1.19598143297c2cfb269f.gif",
+    "static/media/oke.mp3": "/static/media/oke.a2a01a5b42df2926333b.mp3",
+    "static/media/villa2.gif": "/static/media/villa2.fd27b2b549d36eb1306f.gif",
+    "static/media/hotel1.gif": "/static/media/hotel1.c35c1247f972615e588c.gif",
+    "static/media/hotel7.gif": "/static/media/hotel7.712103f984688b2b9d32.gif",
+    "static/media/hotel4.gif": "/static/media/hotel4.3d165fb94ef9687a722d.gif",
+    "static/media/hotel3.gif": "/static/media/hotel3.4a1dd378e6402b9446da.gif",
+    "static/media/hotel5.gif": "/static/media/hotel5.058afca950d8428f0563.gif",
+    "static/media/vila2.gif": "/static/media/vila2.bc7c623390f62ffa46f2.gif",
+    "static/media/hotel6.gif": "/static/media/hotel6.9049ba1eb3ce39a3c061.gif",
+    "static/media/hotel8.gif": "/static/media/hotel8.c23f1749e03adf3a4a44.gif",
+    "static/media/vila1.gif": "/static/media/vila1.35dcf605c59df101352f.gif",
+    "static/media/vila8.gif": "/static/media/vila8.cb25a7eb5f5f4136e8fc.gif",
+    "static/media/hotel2.gif": "/static/media/hotel2.8e646ba2f3e5cbd880de.gif",
+    "static/media/vila4.gif": "/static/media/vila4.7492bae07cf27fb3b147.gif",
+    "static/media/vila5.gif": "/static/media/vila5.eb237112001da18c6bc2.gif",
+    "static/media/Hero.jpg": "/static/media/Hero.e3f0bbc8550205351ac9.jpg",
+    "static/media/vila6.gif": "/static/media/vila6.8dc3f666fbaf60401e23.gif",
+    "static/media/vila7.gif": "/static/media/vila7.b825e536973b5225c9de.gif",
+    "static/media/vila3.gif": "/static/media/vila3.234c60600cee57add074.gif",
+    "static/media/wonderfull.png": "/static/media/wonderfull.5942226a4ce26eff774e.png",
+    "static/media/hero2.jpg": "/static/media/hero2.57ee135d2789fd2b6ac5.jpg",
+    "static/media/vector.jpg": "/static/media/vector.5839c0cdc4a6e08aeae1.jpg",
+    "static/media/garuda.png": "/static/media/garuda.26f0425ba406b6157054.png",
+    "static/media/Hotel_Indonesia.png": "/static/media/Hotel_Indonesia.b493aad30e722249466e.png",
+    "static/media/bg-body.jpg": "/static/media/bg-body.1a8259d30efb9b59b39d.jpg",
+    "index.html": "/index.html",
+    "main.af3197ad.css.map": "/static/css/main.af3197ad.css.map",
+    "main.227ba8ff.js.map": "/static/js/main.227ba8ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af3197ad.css",
+    "static/js/main.227ba8ff.js"
+  ]
+}
